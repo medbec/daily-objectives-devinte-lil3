@@ -22,7 +22,7 @@
 
 #### Optionnel : 
 
-  * [ ] Se challenger sur [CSSBattle](https://cssbattle.dev/) (niveau balèze)
+  * [x] Se challenger sur [CSSBattle](https://cssbattle.dev/) (niveau balèze)
 
 
 
