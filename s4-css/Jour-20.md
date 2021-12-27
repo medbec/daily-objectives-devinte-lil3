@@ -3,7 +3,7 @@
 ## Lundi 27/12/2021
 
 ### CSS : 
-  * [ ] Découverte des icones vectorielles (https://fontawesome.com/)
+  * [x] Découverte des icones vectorielles (https://fontawesome.com/)
   * [x] Découverte des préprocesseurs CSS :
     * [x] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
     * [x] Comprendre le mécanisme du preprocessing (input => output)
