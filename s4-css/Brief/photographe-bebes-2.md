@@ -39,7 +39,7 @@ PS : Utilisation du lorem ipsum pour le contenu et des librairies d’images gra
 
 ## Modalités pédagogiques
 
-Livraison avant Jeudi 30 Décembre 2021 à minuit sur SimplonLine.
+Livraison avant Dimanche 2 Janvier à minuit sur SimplonLine.
 Travail en individuel.
 
 ## Critères de performance
