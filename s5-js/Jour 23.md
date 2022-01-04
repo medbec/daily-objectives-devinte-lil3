@@ -17,4 +17,4 @@
 
 ### Fil rouge
 
-* Faire les wireframes des première pages du projet.
+* Faire les wireframes des premières pages du projet.
